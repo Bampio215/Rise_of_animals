@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1737488871675c14c8fd61bbd9b3c3b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Source: {instanceID: 0}
+  - sFxSource: {instanceID: 0}
+  - background: {instanceID: 0}
+  - death: {instanceID: 0}
+  - gunshot: {fileID: 8300000, guid: e9840cc48d7175c4895cbbe98d1e51eb, type: 3}
+  - sound_run: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "My project (1).sln",
+    "dotnet.defaultSolution": "Rise_of_animals.sln",
     "cSpell.words": [
         "Newtonsoft"
     ]
